@@ -26,6 +26,6 @@ public class Main {
         garantindo que os dispositivos sejam compatíveis entre si.  O código cliente interage com a Abstract Factory para obter os dispositivos,
         sem se preocupar com os detalhes de implementação de cada fabricante.
          */
-        
+
     }
 }
